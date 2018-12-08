@@ -1,0 +1,256 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+MERGED from [:react-native-gesture-handler] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\81f9a13900b6a572ca3cdc9ad1944a51\AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d933a47bb0b495aaa27711766e821046\AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\9515cb0dba2bddb7e00861aa3ce0267f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\83d3d352ac1deb1acff2f0e18ef6482a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0e47676ae2bf6b80e3b9c9b36218bd66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\64cd7f205225f56e31b640445b2c2278\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\8f3823385dc00fa88659f97cfeef6c61\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2771a48b06dedab5085786435b06ef8a\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\4b153dd7d126e04196abe0caa5fcfbfb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\5c53d96b9055984540804968b2eb1c2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f99841c8cf1fba18da9daf424d59748a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\654c838f591fd6ad3422fd0a0b9f55d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\caaa4de42d06dd539152654aeb378e55\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4acb8382e4803b09cbaad796de648bd8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c86ac0e0ac0032174757bd14fcc23f3f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0296b657362c32f6a880ae797b269c8f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\2ccf7d5b62789775a52e0646834d3023\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3105a18e8a7ada95ba760b7b41321b3d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\06d6c43a4ed78f22d2977c6d6b9d4b95\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\6454ab1f917776721740df5e48c3ad97\AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6783940bb26e3e515d55577c7a3e48f2\AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\777376aed74c6c47d8907eba86d09a12\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d55c82f1a610bb854e13ddb81da172a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fce505e87cb68ae48f1a49c951f18902\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\75cf9cf5a0481acd2e50e474ae5b2b7c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\12880499ab8284c865f08fddf61ea326\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\3674ede4dd362f89ddb17e1c9fd9e27b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dd4a810e3f8f753fcb4ffe0b6cb58c93\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\a9aee4fa14d73a67116dbce34f1eda60\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c19f3ab3c4bd8c36e8a2121199a6b943\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd2aff705fe0ef187941dd3778f9aee2\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+	package
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:2:5-23
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:5:5-70
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:6:1-76
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:6:18-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:7:1-77
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:7:18-74
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:9:5-77
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\81f9a13900b6a572ca3cdc9ad1944a51\AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\81f9a13900b6a572ca3cdc9ad1944a51\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:9:22-75
+application
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:11:5-28:19
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\81f9a13900b6a572ca3cdc9ad1944a51\AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\81f9a13900b6a572ca3cdc9ad1944a51\AndroidManifest.xml:13:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\83d3d352ac1deb1acff2f0e18ef6482a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\83d3d352ac1deb1acff2f0e18ef6482a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\8f3823385dc00fa88659f97cfeef6c61\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\8f3823385dc00fa88659f97cfeef6c61\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2771a48b06dedab5085786435b06ef8a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2771a48b06dedab5085786435b06ef8a\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\6454ab1f917776721740df5e48c3ad97\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\6454ab1f917776721740df5e48c3ad97\AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6783940bb26e3e515d55577c7a3e48f2\AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\android-jsc-r174650.aar\6783940bb26e3e515d55577c7a3e48f2\AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\777376aed74c6c47d8907eba86d09a12\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\777376aed74c6c47d8907eba86d09a12\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\12880499ab8284c865f08fddf61ea326\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\12880499ab8284c865f08fddf61ea326\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\3674ede4dd362f89ddb17e1c9fd9e27b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\3674ede4dd362f89ddb17e1c9fd9e27b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dd4a810e3f8f753fcb4ffe0b6cb58c93\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dd4a810e3f8f753fcb4ffe0b6cb58c93\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\a9aee4fa14d73a67116dbce34f1eda60\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\a9aee4fa14d73a67116dbce34f1eda60\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:13:7-39
+	android:icon
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:15:7-34
+	android:theme
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:16:7-38
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:12:7-38
+activity#com.bigd.MainActivity
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:17:7-26:18
+	android:label
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:19:9-41
+	android:windowSoftInputMode
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:21:9-51
+	android:configChanges
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:20:9-79
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:22:9-25:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:23:13-65
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:23:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:24:13-73
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:24:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:27:7-84
+	android:name
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:27:17-81
+uses-sdk
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-gesture-handler\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\81f9a13900b6a572ca3cdc9ad1944a51\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.4] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\react-native-0.57.4.aar\81f9a13900b6a572ca3cdc9ad1944a51\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d933a47bb0b495aaa27711766e821046\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\d933a47bb0b495aaa27711766e821046\AndroidManifest.xml:20:5-44
+MERGED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\9515cb0dba2bddb7e00861aa3ce0267f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\exifinterface-27.1.1.aar\9515cb0dba2bddb7e00861aa3ce0267f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\83d3d352ac1deb1acff2f0e18ef6482a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\83d3d352ac1deb1acff2f0e18ef6482a\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0e47676ae2bf6b80e3b9c9b36218bd66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\0e47676ae2bf6b80e3b9c9b36218bd66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\64cd7f205225f56e31b640445b2c2278\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\64cd7f205225f56e31b640445b2c2278\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\8f3823385dc00fa88659f97cfeef6c61\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\8f3823385dc00fa88659f97cfeef6c61\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2771a48b06dedab5085786435b06ef8a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2771a48b06dedab5085786435b06ef8a\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\4b153dd7d126e04196abe0caa5fcfbfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.0.aar\4b153dd7d126e04196abe0caa5fcfbfb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\5c53d96b9055984540804968b2eb1c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.0.aar\5c53d96b9055984540804968b2eb1c2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f99841c8cf1fba18da9daf424d59748a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f99841c8cf1fba18da9daf424d59748a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\654c838f591fd6ad3422fd0a0b9f55d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\654c838f591fd6ad3422fd0a0b9f55d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\caaa4de42d06dd539152654aeb378e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\caaa4de42d06dd539152654aeb378e55\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4acb8382e4803b09cbaad796de648bd8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\4acb8382e4803b09cbaad796de648bd8\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c86ac0e0ac0032174757bd14fcc23f3f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\fresco-1.10.0.aar\c86ac0e0ac0032174757bd14fcc23f3f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0296b657362c32f6a880ae797b269c8f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-okhttp3-1.10.0.aar\0296b657362c32f6a880ae797b269c8f\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\2ccf7d5b62789775a52e0646834d3023\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\drawee-1.10.0.aar\2ccf7d5b62789775a52e0646834d3023\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3105a18e8a7ada95ba760b7b41321b3d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-1.10.0.aar\3105a18e8a7ada95ba760b7b41321b3d\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\06d6c43a4ed78f22d2977c6d6b9d4b95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\imagepipeline-base-1.10.0.aar\06d6c43a4ed78f22d2977c6d6b9d4b95\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\6454ab1f917776721740df5e48c3ad97\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\soloader-0.5.1.aar\6454ab1f917776721740df5e48c3ad97\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\777376aed74c6c47d8907eba86d09a12\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\777376aed74c6c47d8907eba86d09a12\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d55c82f1a610bb854e13ddb81da172a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\4d55c82f1a610bb854e13ddb81da172a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fce505e87cb68ae48f1a49c951f18902\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\fce505e87cb68ae48f1a49c951f18902\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\75cf9cf5a0481acd2e50e474ae5b2b7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\fbcore-1.10.0.aar\75cf9cf5a0481acd2e50e474ae5b2b7c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\12880499ab8284c865f08fddf61ea326\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\12880499ab8284c865f08fddf61ea326\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\3674ede4dd362f89ddb17e1c9fd9e27b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\3674ede4dd362f89ddb17e1c9fd9e27b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dd4a810e3f8f753fcb4ffe0b6cb58c93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\dd4a810e3f8f753fcb4ffe0b6cb58c93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\a9aee4fa14d73a67116dbce34f1eda60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\a9aee4fa14d73a67116dbce34f1eda60\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c19f3ab3c4bd8c36e8a2121199a6b943\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c19f3ab3c4bd8c36e8a2121199a6b943\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd2aff705fe0ef187941dd3778f9aee2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\dd2aff705fe0ef187941dd3778f9aee2\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] C:\Users\Yashoda\Desktop\WORK\RN\BigD\node_modules\react-native-camera\android\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\a9b7dd6a2a020ce2819434a467855993\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Yashoda\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\643fa81eca17d2a587e4f877a877a710\AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from C:\Users\Yashoda\Desktop\WORK\RN\BigD\android\app\src\main\AndroidManifest.xml:1:1-30:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
